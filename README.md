@@ -1,4 +1,4 @@
-# Multimodal Diffusion Transformer: Learning Versatile Behavior from Multimodal Goals Test
+# Multimodal Diffusion Transformer: Learning Versatile Behavior from Multimodal Goals
 
 [Paper](https://arxiv.org/pdf/2407.05996), [Project Page](), [RSS 2024](https://roboticsconference.org/program/papers/121/)
 
